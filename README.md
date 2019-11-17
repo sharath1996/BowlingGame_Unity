@@ -1,10 +1,15 @@
 # BowlingGame_Unity
 First attempt in building a simple bowling game in unity3d
 Controls for the game:
+
 "A" to move the ball left 
-"D" to move the ball right
-"W" to increase the force
+
+"D" to move the ball right 
+
+"W" to increase the force 
+
 "S" to decrease the force
+
 "L" to launch the ball
 
 
